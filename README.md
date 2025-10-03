@@ -1,7 +1,7 @@
 # Alien-Siege
 A game made and published by me and my team.
 Game Logo
-!https://img.itch.zone/aW1hZ2UvMzgxNDYyNi8yMjc0MTIzNS5wbmc=/original/bV2fmf.png
+![https://img.itch.zone/aW1hZ2UvMzgxNDYyNi8yMjc0MTIzNS5wbmc=/original/bV2fmf.png]
 
 
 🚀 Alien Siege: Multi-Platform Space Shooter Game
