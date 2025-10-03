@@ -1,5 +1,7 @@
 # Alien-Siege
 A game made and published by me and my team.
+Game Logo
+!https://img.itch.zone/aW1hZ2UvMzgxNDYyNi8yMjc0MTIzNS5wbmc=/original/bV2fmf.png
 🚀 Alien Siege: Multi-Platform Space Shooter Game
 This repository serves as proof of concept and development history for Alien Siege, a published space and shooting-themed mobile game.
 
