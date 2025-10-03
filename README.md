@@ -7,14 +7,31 @@ This project was developed by the Perfectum Ventus team, of which I was a co-fou
 It showcases my practical experience in multi-platform application development, product delivery, and team collaboration within an agile environment.
 
 🎯 Project Overview & Technical Details
-Detail	Specification
-Project Name	Alien Siege
-Theme	Space Shooter / Arcade
-Development Team	Perfectum Ventus 
-Team Members  [Muhammet Ali Ozturk, Mehmetali Acık, Oguzhan Sukru Keles, Muhammed Osman Kara]
-Primary Language	Dart
-Framework/Engine	Flutter (Enabling multi-platform release)
-Status	Published and publicly available
+
+
+Detail	/  Specification
+
+
+Project Name:	Alien Siege
+
+
+Theme	Space: Shooter / Arcade
+
+
+Development Team:	Perfectum Ventus 
+
+
+Team Members:  [Muhammet Ali Ozturk, Mehmetali Acık, Oguzhan Sukru Keles, Muhammed Osman Kara]
+
+
+Primary Language:	Dart
+
+
+Framework/Engine:	Flutter (Enabling multi-platform release)
+
+
+Status:	Published and publicly available
+
 
 🌟 Game Introduction
 Alien Siege: Fight Against Threats from the Sky!
