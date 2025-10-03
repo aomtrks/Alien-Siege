@@ -58,12 +58,22 @@ The fate of the world is in your hands! If you're ready to stop the alien invasi
 🔗 Download Links & Publishing Platforms
 Alien Siege has been successfully deployed and published on multiple major application stores, demonstrating our team's capability to deliver a market-ready product.
 
-Platform	Download Link
-Uptodown	https://alien-siege.en.uptodown.com/android
-Itch.io	https://perfectumventus.itch.io/alien-siege
-AppGallery (Huawei)	https://appgallery.huawei.com/app/C115000673
+Platform	/  Download Link
+
+
+Uptodown:	https://alien-siege.en.uptodown.com/android
+
+
+Itch.io:	https://perfectumventus.itch.io/alien-siege
+
+
+AppGallery (Huawei):	https://appgallery.huawei.com/app/C115000673
+
+
 
 The source code for this commercial project is kept private but the final product can be verified via the links above.
+
+
 
 📈 Key Learnings & Skills Demonstrated
 Developing and publishing Alien Siege provided me with hands-on experience in:
